@@ -1,4 +1,3 @@
-# aula-3-de-java
 package br.com.fiap.modelo;
 
 public class Monitor {
