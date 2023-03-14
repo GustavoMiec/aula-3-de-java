@@ -1,4 +1,3 @@
-# aula-3-de-java
 package br.com.fiap.main;
 
 import br.com.fiap.modelo.Computador;
